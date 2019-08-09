@@ -1,10 +1,15 @@
 h1{
   color: black;
+  font-style: italic;
 }
 body{
   background-color: #4E9258
 }
 
 .container{
+  float: inherit;
   background-color: green;
+}
+.container p{
+  background-color: grey;
 }
