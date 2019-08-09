@@ -8,7 +8,7 @@ body{
 
 .container{
   float: inherit;
-  background-color: green;
+  background-color: blue;
 }
 .container p{
   background-color: grey;
